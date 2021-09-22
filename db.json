@@ -1,26 +1,30 @@
-{
-   "ufs":[
+                     "value":"Humberto de Campos"
+                  }
+               ]
+            }
+         ]
+      },
       {
-         "key":"Santa Catarina",
+         "key":"Paraná",
          "value":[
             {
-               "key":"Itajaí",
-               "value":"Itajaí"
+               "key":"Ponta Grossa",
+               "value":"Ponta Grossa"
             },
             {
-               "key":"Balneário Camboriú",
-               "value":"Rio Grande do Sul"
+               "key":"Londrina",
+               "value":"Londrina"
             },
             {
-               "key":"Blumenau",
+               "key":"Curitiba",
                "value":[
                   {
-                     "key":"3",
-                     "value":"Centro"
+                     "key":"10",
+                     "value":"Vinhosa"
                   },
                   {
-                     "key":"56",
-                     "value":"Humberto de Campos"
+                     "key":"20",
+                     "value":"Vale do Sol"
                   }
                ]
             }
