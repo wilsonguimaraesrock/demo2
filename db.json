@@ -1,0 +1,30 @@
+{
+   "ufs":[
+      {
+         "key":"Santa Catarina",
+         "value":[
+            {
+               "key":"Itajaí",
+               "value":"Itajaí"
+            },
+            {
+               "key":"Balneário Camboriú",
+               "value":"Rio Grande do Sul"
+            },
+            {
+               "key":"Blumenau",
+               "value":[
+                  {
+                     "key":"3",
+                     "value":"Centro"
+                  },
+                  {
+                     "key":"56",
+                     "value":"Humberto de Campos"
+                  }
+               ]
+            }
+         ]
+      }
+   ]
+}
